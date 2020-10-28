@@ -28,13 +28,13 @@ This guide will take you through setting up Novela with Gatsby Starter Novela.
 
 ### Step 1: Starter installation
 
-##### With `gatsby-cli`:
+##### With `gatsby-cli`
 
 ```sh
 gatsby new novela-site https://github.com/narative/gatsby-starter-novela
 ```
 
-##### With `git clone`:
+##### With `git clone`
 
 ```sh
 git clone git@github.com:narative/gatsby-starter-novela.git novela-site
@@ -57,7 +57,8 @@ yarn build
 ```
 
 If wanting to use Netlify CMS as the content editor, then you need to be run the proxy in another terminal tab. Then visit
-http://localhost:8000/admin to view the editor.
+<http://localhost:8000/admin> to view the editor.
+
 ```sh
 # Run proxy
 yarn proxy
@@ -65,7 +66,6 @@ yarn proxy
 
 ### Help
 
-If you don't have *yarn* installed follow the [yarn getting started guide](https://classic.yarnpkg.com/en/docs/getting-started) 
+If you don't have *yarn* installed follow the [yarn getting started guide](https://classic.yarnpkg.com/en/docs/getting-started)
 
 For more information visit the [Theme repository](https://github.com/narative/gatsby-theme-novela)
-

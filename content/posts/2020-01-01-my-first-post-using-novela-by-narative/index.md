@@ -1,6 +1,6 @@
 ---
 title: My first post using Novela by Narative
-author: Dennis Brotzky
+author: Jonathan Fraimorice
 date: 2019-04-30
 hero: ./images/hero.jpg
 excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
@@ -61,7 +61,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 Or leave it empty and use the [link text itself].
 
 URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
+<http://www.example.com> or <http://www.example.com> and sometimes
 example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
