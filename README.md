@@ -2,3 +2,5 @@
 
 # I also want a blog!
 This is me trying to fit in and having a blog that probably won't be read by anyone. So it's just me writing stuff I think is interesting :)
+
+Made in Gatsby using the Novela theme
